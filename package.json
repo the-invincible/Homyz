@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@auth0/auth0-react": "^2.0.1",
+    "@mantine/core": "^7.17.5",
+    "@mantine/dates": "^7.17.5",
+    "@mantine/form": "^7.17.5",
+    "@mantine/hooks": "^7.17.5"
+  }
+}
